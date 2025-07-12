@@ -1,0 +1,855 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vstudi\\JustinesCargoServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|e:\\vstudi\\justinescargoservices\\justinescargoservices\\verify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\verify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|e:\\vstudi\\justinescargoservices\\justinescargoservices\\verify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\verify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|e:\\vstudi\\justinescargoservices\\justinescargoservices\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|JustinesCargoServices||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\deliveries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\deliveries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\operationalexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\operationalexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\waybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\waybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\operationalexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\operationalexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\deliveries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\deliveries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\waybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\waybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\trucks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\trucks.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\renewalsltfrb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\renewalsltfrb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\renewalslto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\renewalslto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\renewalslto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\renewalslto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\renewalsinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\renewalsinsurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\renewalsinsurance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\renewalsinsurance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\addoperational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\addoperational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\billing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\billing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\waybill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\waybill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\addoperational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D50A484-1234-44AB-A12C-00A20FD0E1BF}|JustinesCargoServices\\JustinesCargoServices.csproj|solutionrelative:justinescargoservices\\addoperational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\vstudi\\justinescargoservices\\justinescargoservices\\employeeadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:justinescargoservices\\employeeadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\vstudi\\justinescargoservices\\justinescargoservices\\payrollcreateauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:justinescargoservices\\payrollcreateauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\employeeadd.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JustinesCargoServices\\employeeadd.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\employeeaddwork.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JustinesCargoServices\\employeeaddwork.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payrollpayslip.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JustinesCargoServices\\payrollpayslip.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payrollcreatemanual.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JustinesCargoServices\\payrollcreatemanual.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payrollcreateauto.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JustinesCargoServices\\payrollcreateauto.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\adddelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:justinescargoservices\\adddelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\vstudi\\justinescargoservices\\justinescargoservices\\renewalsinsuranceadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:justinescargoservices\\renewalsinsuranceadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\renewalsltoadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:justinescargoservices\\renewalsltoadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsLTOadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JustinesCargoServices\\renewalsLTOadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybillInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JustinesCargoServices\\waybillInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\waybillinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:justinescargoservices\\waybillinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\waybilltransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:justinescargoservices\\waybilltransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybillTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JustinesCargoServices\\waybillTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\billingprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:justinescargoservices\\billingprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\billingadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:justinescargoservices\\billingadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\vstudi\\JustinesCargoServices\\justinescargoservices\\assigndrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:justinescargoservices\\assigndrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "deliveries.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\deliveries.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\deliveries.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\deliveries.cs",
+              "RelativeToolTip": "JustinesCargoServices\\deliveries.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwJgBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T01:45:03.592Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "payroll.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payroll.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\payroll.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payroll.cs",
+              "RelativeToolTip": "JustinesCargoServices\\payroll.cs",
+              "ViewState": "AgIAADwHAAAAAAAAAAAqwFAHAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:19:21.392Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "payroll.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payroll.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\payroll.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payroll.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\payroll.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:29:21.942Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "verify.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\verify.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\verify.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\verify.cs",
+              "RelativeToolTip": "JustinesCargoServices\\verify.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAIEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:39:38.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "verify.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\verify.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\verify.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\verify.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\verify.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:38:46.801Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "reports.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\reports.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\reports.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\reports.cs",
+              "RelativeToolTip": "JustinesCargoServices\\reports.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:16:25.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "enroll.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\enroll.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\enroll.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\enroll.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\enroll.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:00:12.411Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "employee.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\employee.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\employee.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\employee.cs",
+              "RelativeToolTip": "JustinesCargoServices\\employee.cs",
+              "ViewState": "AgIAAK0CAAAAAAAAAAAAALECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:57:34.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "deliveries.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\deliveries.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\deliveries.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\deliveries.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\deliveries.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T01:44:00.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "employeeadd.Designer.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\employeeadd.Designer.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\employeeadd.Designer.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\employeeadd.Designer.cs",
+              "RelativeToolTip": "JustinesCargoServices\\employeeadd.Designer.cs",
+              "ViewState": "AgIAALgCAAAAAAAAAIAwwM0CAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:51:08.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "enroll.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\enroll.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\enroll.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\enroll.cs",
+              "RelativeToolTip": "JustinesCargoServices\\enroll.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:53:44.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "employeeaddwork.Designer.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\employeeaddwork.Designer.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\employeeaddwork.Designer.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\employeeaddwork.Designer.cs",
+              "RelativeToolTip": "JustinesCargoServices\\employeeaddwork.Designer.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAIAwwNcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:51:14.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\Dashboard.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\Dashboard.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\Dashboard.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:21:19.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\Dashboard.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\Dashboard.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\Dashboard.cs",
+              "RelativeToolTip": "JustinesCargoServices\\Dashboard.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAUwLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:21:30.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "reports.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\reports.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\reports.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\reports.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:13:05.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JustinesCargoServices",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\JustinesCargoServices.csproj",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\JustinesCargoServices.csproj",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\JustinesCargoServices.csproj",
+              "RelativeToolTip": "JustinesCargoServices\\JustinesCargoServices.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-07T05:48:05.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\login.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\login.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\login.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:22:22.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\login.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\login.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\login.cs",
+              "RelativeToolTip": "JustinesCargoServices\\login.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowEYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:10:21.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\Program.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\Program.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\Program.cs",
+              "RelativeToolTip": "JustinesCargoServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:18:05.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "payrollpayslip.Designer.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payrollpayslip.Designer.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\payrollpayslip.Designer.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payrollpayslip.Designer.cs",
+              "RelativeToolTip": "JustinesCargoServices\\payrollpayslip.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAhwFwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:51:17.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "payrollcreatemanual.Designer.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payrollcreatemanual.Designer.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\payrollcreatemanual.Designer.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payrollcreatemanual.Designer.cs",
+              "RelativeToolTip": "JustinesCargoServices\\payrollcreatemanual.Designer.cs",
+              "ViewState": "AgIAALMFAAAAAAAAAAAhwLMFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:28:57.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "payrollcreateauto.Designer.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payrollcreateauto.Designer.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\payrollcreateauto.Designer.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payrollcreateauto.Designer.cs",
+              "RelativeToolTip": "JustinesCargoServices\\payrollcreateauto.Designer.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAhwAcBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:28:00.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "renewalsLTOadd.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsLTOadd.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\renewalsLTOadd.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsLTOadd.cs",
+              "RelativeToolTip": "JustinesCargoServices\\renewalsLTOadd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:04:56.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "waybillInfo.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybillInfo.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\waybillInfo.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybillInfo.cs",
+              "RelativeToolTip": "JustinesCargoServices\\waybillInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:35:03.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "waybillTransaction.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybillTransaction.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\waybillTransaction.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybillTransaction.cs",
+              "RelativeToolTip": "JustinesCargoServices\\waybillTransaction.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:31:29.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "operationalexpenses.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\operationalexpenses.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\operationalexpenses.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\operationalexpenses.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\operationalexpenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:35:09.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "login.Designer.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\login.Designer.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\login.Designer.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\login.Designer.cs",
+              "RelativeToolTip": "JustinesCargoServices\\login.Designer.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:22:26.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "waybill.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybill.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\waybill.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybill.cs",
+              "RelativeToolTip": "JustinesCargoServices\\waybill.cs",
+              "ViewState": "AgIAAH0DAAAAAAAAAIAwwJIDAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:36:25.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "operationalexpenses.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\operationalexpenses.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\operationalexpenses.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\operationalexpenses.cs",
+              "RelativeToolTip": "JustinesCargoServices\\operationalexpenses.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:36:30.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "billing.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\billing.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\billing.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\billing.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\billing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:40:14.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "employee.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\employee.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\employee.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\employee.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:37:57.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "employeeadd.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\employeeadd.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\employeeadd.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\employeeadd.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\employeeadd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:23:59.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "waybill.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybill.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\waybill.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybill.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\waybill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:30:44.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "payrollcreateauto.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payrollcreateauto.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\payrollcreateauto.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\payrollcreateauto.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\payrollcreateauto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:28:33.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "trucks.Designer.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\trucks.Designer.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\trucks.Designer.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\trucks.Designer.cs",
+              "RelativeToolTip": "JustinesCargoServices\\trucks.Designer.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAIAwwKIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:54:24.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "renewalsLTO.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsLTO.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\renewalsLTO.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsLTO.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\renewalsLTO.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:46:25.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "renewalsLTFRB.Designer.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsLTFRB.Designer.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\renewalsLTFRB.Designer.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsLTFRB.Designer.cs",
+              "RelativeToolTip": "JustinesCargoServices\\renewalsLTFRB.Designer.cs",
+              "ViewState": "AgIAAGcDAAAAAAAAAAAAAHkDAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:56:45.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "renewalsInsurance.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsInsurance.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\renewalsInsurance.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsInsurance.cs",
+              "RelativeToolTip": "JustinesCargoServices\\renewalsInsurance.cs",
+              "ViewState": "AgIAAM8BAAAAAAAAAAAAANsBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:00:50.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "addDelivery.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\addDelivery.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\addDelivery.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\addDelivery.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\addDelivery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T01:51:06.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "renewalsLTO.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsLTO.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\renewalsLTO.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsLTO.cs",
+              "RelativeToolTip": "JustinesCargoServices\\renewalsLTO.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAAAOkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:30:45.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "renewalsInsurance.Designer.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsInsurance.Designer.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\renewalsInsurance.Designer.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsInsurance.Designer.cs",
+              "RelativeToolTip": "JustinesCargoServices\\renewalsInsurance.Designer.cs",
+              "ViewState": "AgIAAIkEAAAAAAAAAAAAAKEEAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:02:04.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "renewalsInsuranceadd.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsInsuranceadd.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\renewalsInsuranceadd.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsInsuranceadd.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\renewalsInsuranceadd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T02:59:31.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "billing.Designer.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\billing.Designer.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\billing.Designer.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\billing.Designer.cs",
+              "RelativeToolTip": "JustinesCargoServices\\billing.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:24:33.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "renewalsLTOadd.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsLTOadd.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\renewalsLTOadd.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\renewalsLTOadd.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\renewalsLTOadd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:04:33.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "addOperational.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\addOperational.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\addOperational.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\addOperational.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\addOperational.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:35:33.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "billing.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\billing.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\billing.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\billing.cs",
+              "RelativeToolTip": "JustinesCargoServices\\billing.cs",
+              "ViewState": "AgIAAOACAAAAAAAAAAAiwOoCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:48:41.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "waybill.Designer.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybill.Designer.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\waybill.Designer.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybill.Designer.cs",
+              "RelativeToolTip": "JustinesCargoServices\\waybill.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwDsOAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:42:51.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "waybillInfo.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybillInfo.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\waybillInfo.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybillInfo.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\waybillInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:30:47.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "waybillTransaction.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybillTransaction.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\waybillTransaction.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\waybillTransaction.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\waybillTransaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:31:06.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "billingprint.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\billingprint.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\billingprint.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\billingprint.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\billingprint.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:40:19.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "billingadd.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\billingadd.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\billingadd.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\billingadd.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\billingadd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:40:24.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "addOperational.cs",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\addOperational.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\addOperational.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\addOperational.cs",
+              "RelativeToolTip": "JustinesCargoServices\\addOperational.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:51:21.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "assignDrivers.cs [Design]",
+              "DocumentMoniker": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\assignDrivers.cs",
+              "RelativeDocumentMoniker": "JustinesCargoServices\\assignDrivers.cs",
+              "ToolTip": "E:\\vstudi\\JustinesCargoServices\\JustinesCargoServices\\assignDrivers.cs [Design]",
+              "RelativeToolTip": "JustinesCargoServices\\assignDrivers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T01:44:32.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
